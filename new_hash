@@ -1,0 +1,11 @@
+new_hash = {
+  :dogs => nil
+}
+
+my_hash = {
+  :dogs => "pitt bull"
+}
+
+pioneer = {
+  :name => "Grace Hopper"
+}
